@@ -3,3 +3,6 @@ To put it into practice, I built this quick ETL pipeline:
 - **Bronze** → Raw data ingestion  
 - **Silver** → Cleaned & standardized data  
 - **Gold** → Dashboard-ready data
+
+### 📊 Dashboard Preview
+![Dashboard Screenshot](dashboard.png)
