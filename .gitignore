@@ -1,0 +1,15 @@
+# Bytecode
+__pycache__/
+
+# Virtual environments
+.env
+venv/
+
+# Logs
+logs/
+*.log
+
+# Config with secrets
+config/config.yaml
+.streamlit/secrets.toml
+
